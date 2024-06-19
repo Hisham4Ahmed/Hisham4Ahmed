@@ -2,19 +2,19 @@
 
 I an experienced Embedded System Engineer with over 4 years in ECU development and embedded software, particularly within the automotive sector.
 
-💻 At Coretech-Innovations, I specialize in:
+**💻 At Coretech-Innovations**, I specialize in:
 
-📟 Developing device drivers
-🛠️ Integrating AUTOSAR stacks
-📝 Managing diagnostic services using UDS and CAN protocols
-🔌 Power management for electrical chargers
-🔗 Implementing V2G and OCPP protocols for Linux-based systems
-🌐 IoT & Smart Home Solutions
+- 📟 Developing device drivers
+- 🛠️ Integrating AUTOSAR stacks
+- 📝 Managing diagnostic services using UDS and CAN protocols
+- 🔌 Power management for electrical chargers
+- 🔗 Implementing V2G and OCPP protocols for Linux-based systems
+- 🌐 IoT & Smart Home Solutions
+  
 📚 I also serve as an Embedded System Trainer at IMT School and ITI, where I teach courses on:
-
-🎛️ AVR and ARM architectures
-🐧 Embedded Linux
-🚗 Automotive systems
+- 🎛️ AVR and ARM architectures
+- 🐧 Embedded Linux
+- 🚗 Automotive systems
 
 ## 💫 Liitle Bit More About Me
 <p>💬 Ask me about Embedded System</p>
