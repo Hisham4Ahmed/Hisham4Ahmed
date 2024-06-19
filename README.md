@@ -19,3 +19,7 @@ I an experienced Embedded System Engineer with over 4 years in ECU development a
     <img width="500px" alt="hello GIF" src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e476n7is599ejcdciayiun3bz5sxu8s8bnf6uan4w0y&rid=giphy.gif&ct=g">
 </div>
 
+![Hisham4Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=Hisham4Ahmed&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Hisham4Ahmed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hisham4Ahmed&theme=tokyonight&hide_border=false)
+![Hisham4Ahmed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hisham4Ahmed&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
