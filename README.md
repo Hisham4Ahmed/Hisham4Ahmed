@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 **Github Stats:**
 
 <p align="center">
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
+<!--
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
@@ -46,3 +47,4 @@ Here are some ideas to get you started:
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
 </p>
+-->
