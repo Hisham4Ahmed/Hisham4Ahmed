@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Hesham Ahmed
 
-I an experienced Embedded System Engineer with over 4 years in ECU development and embedded software, particularly within the automotive sector.
+I an experienced Embedded System Engineer with over 8 years in ECU development and embedded software, particularly within the automotive sector.
 
 **💻 At Coretech-Innovations**, I specialize in:
 
