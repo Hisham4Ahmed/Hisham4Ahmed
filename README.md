@@ -172,3 +172,15 @@ I’m trusted with problems where:
 ---
 
 ⭐ *I build teams and systems that move cars, power grids — and fly beyond the ground.*
+
+<div align="center">
+
+🧭 **Leadership • Architecture • Reliability**
+
+*Building systems — and engineers — that survive the real world.*
+
+⭐ *I build teams and systems that move cars, power grids — and fly beyond the ground.*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F7F7F7&center=true&vCenter=true&width=750&lines=I+build+teams+and+systems+that+move+cars%2C+power+grids+—+and+fly+beyond+the+ground." />
+
+</div>
